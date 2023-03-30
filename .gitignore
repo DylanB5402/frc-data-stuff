@@ -1,0 +1,4 @@
+venv/*
+__pycache__/*
+tba_data.sqlite
+auth_key.py
